@@ -1,2 +1,2 @@
 # liDAR-Test
-Code for processing of lidar data set
+Code for processing, analyzing, reading and writing LiDAR data sets 
